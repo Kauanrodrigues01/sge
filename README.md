@@ -19,7 +19,6 @@ O **SGE (Sistema de Gestão de Estoque)** é uma solução completa para o geren
 - **Gerenciamento de Estoque**:
   - Controle de produtos, fornecedores, marcas e categorias.
   - Registro de entradas e saídas de estoque.
-  - Alertas automáticos de baixo estoque via WhatsApp e e-mail.
 - **Integração com Inteligência Artificial**:
   - Sugestões de reposição com base em históricos de vendas e consumo.
   - Insights para otimização da gestão de estoque.
