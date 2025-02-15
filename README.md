@@ -50,7 +50,6 @@ O **SGE (Sistema de Gestão de Estoque)** é uma solução completa para o geren
 
 - **Back-end**:
   - **Django** para o criação do sistema web e gerenciamento do sistema e envio de e-mails.
-  - Integração com a API da Evolution para envio de mensagens WhatsApp.
   - **Gemini** para integração de IA e fornecimento de insights.
 - **Front-end**:
   - **Bootstrap** para estilização.
